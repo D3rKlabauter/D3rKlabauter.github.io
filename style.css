@@ -337,7 +337,7 @@ h2.frontpage {
             max-width: 50%;
             width: auto;
             padding-right: 0 !important; 
-            pedding-left: 2.5em !important;
+            padding-left: 2.5em !important;
       }
 }
 
@@ -349,7 +349,7 @@ h2.frontpage {
             flex-direction: column;
       }
       .text_right{
-            padding-right: 15px;
+            padding-left: 15px;
       }
       .text_left, .text_right, .project-straight .project, .project-odd .project {
             max-width: 100%
