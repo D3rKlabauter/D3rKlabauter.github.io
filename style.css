@@ -849,8 +849,8 @@ textarea:focus {
 /* Project 9 */
 
 .project-img .col-md-12 .project9-image1{
-      background: url(/content/projectPage/Nr9/shortest_sharp.gif) no-repeat center/50%;
-      /* background-size: cover; */
+      background: url(/content/projectPage/Nr9/shortest_sharp.gif) no-repeat 50% 50%;
+      background-size: contain;
 }
 .project-img .col-md-12 .project9-image2{
       background: url(/content/projectPage/Nr9/Beamer01.jpeg) no-repeat 50% 54%;
