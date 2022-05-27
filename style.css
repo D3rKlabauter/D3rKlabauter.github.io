@@ -557,6 +557,20 @@ h2.frontpage {
       background-size: contain;
 }
 
+/* GitHub Link */
+.about-page .link {
+      text-align: center;
+}
+
+.about-page .link a{
+      font-size: 1rem;
+      color: #111111;
+      padding: 2px 4px;
+      background-color: #e2e2e2;
+      border-radius: 3px;
+      width: fit-content;
+}
+
 @media(max-width: 768px) {
       .image {
             min-height: 200px;
@@ -660,7 +674,7 @@ textarea:focus {
 .project-page .project-img .project {
       width: 100%;
       height: auto;
-      min-height: 300px;
+      min-height: 400px;
       max-height: 700px;
 }
 
