@@ -504,6 +504,7 @@ h2.frontpage {
 }
 
 .info h4 {
+      color: grey;
       font-size: 18px;
       /*font-weight: lighter;*/
 }
