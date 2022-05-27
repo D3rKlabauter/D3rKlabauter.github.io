@@ -108,7 +108,7 @@ nav #menu li {
       padding-left: 40px;
       display: inline-block;
       cursor: pointer;
-      font-weight: 300;
+      font-weight: 400; /*or 300 for lighter font*/ 
       line-height: 80px;
       position: relative;
       transition: all 0.3s ease-out;
@@ -335,7 +335,8 @@ h2.frontpage {
       .text_right {
             max-width: 50%;
             width: auto;
-            padding-right: 0 !important;      
+            padding-right: 0 !important; 
+            pedding-left: 2.5em !important;
       }
 }
 
@@ -345,6 +346,9 @@ h2.frontpage {
       }
       .row.project-odd {
             flex-direction: column;
+      }
+      .text_right{
+            padding-right: 15px;
       }
       .text_left, .text_right, .project-straight .project, .project-odd .project {
             max-width: 100%
