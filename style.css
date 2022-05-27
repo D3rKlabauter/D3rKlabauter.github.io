@@ -510,7 +510,7 @@ h2.frontpage {
 
 .info p {
       color: grey;
-      font-weight: lighter;
+      /*font-weight: lighter;*/
 }
 
 .info li {
