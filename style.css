@@ -565,12 +565,12 @@ h2.frontpage {
 }
 
 .about-page .image1 {
-      background: url(content/aboutPage/portrait.JPG) no-repeat 50% 50%;
+      background: url(content/aboutPage/portrait.jpg) no-repeat 50% 50%;
       background-size: contain;
 }
 
 .about-page .image2 {
-      background: url(content/aboutPage/bike.jpeg) no-repeat 50% 50%;
+      background: url(content/aboutPage/bike.jpg) no-repeat 50% 50%;
       background-size: contain;
 }
 
