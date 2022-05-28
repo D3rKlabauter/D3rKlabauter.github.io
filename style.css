@@ -564,6 +564,11 @@ h2.frontpage {
       /* margin-top: 120px; */
 }
 
+.about-page .question {
+      text-align: center;
+      font-family: 'DM Mono', monospace;
+}
+
 .about-page .image1 {
       background: url(content/aboutPage/portrait.jpg) no-repeat 50% 50%;
       background-size: contain;
