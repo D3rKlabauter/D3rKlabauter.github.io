@@ -702,7 +702,7 @@ textarea:focus {
       min-height: 500px !important;
 }
 
-/* project 2 and 10 image gets smaler  */
+/* project 2 and 10 image gets smaller  */
 .project-img .col-md-12 .project2-image2, .project-img .col-md-12 .project10-image1{
       min-height: 200px !important;
 }
