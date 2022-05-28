@@ -543,6 +543,10 @@ h2.frontpage {
 }
 
 @media(max-width: 768px) {
+      .info .row {
+            flex-wrap: wrap;
+      }
+      
       .collab, #personal, #media, #address {
             text-align: center;
       }
