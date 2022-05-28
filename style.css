@@ -559,7 +559,7 @@ h2.frontpage {
 
 /*---------------about page --------------- */
 
-.about {
+.about-page .about {
       min-height: 400px;
       /* margin-top: 120px; */
 }
@@ -589,7 +589,7 @@ h2.frontpage {
 }
 
 @media(max-width: 768px) {
-      .image {
+      .about-page .about {
             min-height: 200px !important;
       }
 }
