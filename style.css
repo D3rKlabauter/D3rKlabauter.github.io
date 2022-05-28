@@ -559,14 +559,10 @@ h2.frontpage {
 
 /*---------------about page --------------- */
 
-.about-page .about {
-      min-height: 400px;
-      /* margin-top: 120px; */
-}
-
 .about-page .question {
       text-align: center;
       font-family: 'DM Mono', monospace;
+      font-size: 18px;
 }
 
 .about-page .image1 {
@@ -593,9 +589,15 @@ h2.frontpage {
       width: fit-content;
 }
 
+@media(min-width: 769px) {
+      .about-page .about {
+            min-height: 400px;
+      }           
+}
+
 @media(max-width: 768px) {
       .about-page .about {
-            min-height: 200px !important;
+            min-height: 200px;
       }
 }
 
