@@ -383,75 +383,69 @@ h2.frontpage {
       }
 /* end pointer for links */
 
-.project1 {
-      background: url(/content/mainPage/kinect.jpg) no-repeat 50% 65%;
-      background-size: cover;
-      max-width: 50%;
-}
 
-.project2 {
-      background: url(/content/mainPage/button.jpg) no-repeat 50% 80%;
-      background-size: cover;
-      max-width: 50%;
-      
-}
-
-.project3 {
+.project01 {
       background: url(/content/mainPage/landkarte.jpg) no-repeat 40% 60%;
       background-size: cover;
       max-width: 50%;
       
 }
 
-.project4 {
+.project02 {
       background: url(/content/mainPage/temperature.jpg) no-repeat 50% 70%;
       background-size: cover;
       max-width: 50%;
       
 }
 
-.project5 {
+.project03 {
       background: url(/content/mainPage/soilMoisture.jpg) no-repeat 50% 2%; 
       background-size: contain;
       max-width: 50%;
       
 }
 
-.project6 {
+.project04 {
       background: url(/content/mainPage/rhinoAnsicht.jpeg) no-repeat 50% 60%;
       background-size: cover;
       max-width: 50%;
       
 }
 
-.project7 {
+.project05 {
       background: url(/content/mainPage/mask.gif) no-repeat 50% 25%;
       background-size: cover;
       max-width: 50%;
 }
 
-.project8 {
+.project06 {
       background: url(/content/mainPage/microphone.gif) no-repeat 50% 30%;
       background-size: cover;
       max-width: 50%;
       
 }
 
-.project9 {
+.project07 {
       background: url(/content/mainPage/wave.gif) no-repeat 50% 50%;
       background-size: cover;
       max-width: 50%;
       
 }
 
-.project10 {
+.project08 {
+      background: url(/content/mainPage/kinect.jpg) no-repeat 50% 65%;
+      background-size: cover;
+      max-width: 50%;
+}
+
+.project09 {
       background: url(/content/mainPage/rfid.jpg) no-repeat 50% 45%;
       background-size: cover;
       max-width: 50%;
       
 }
 
-.project11 {
+.project10 {
       background: url(/content/mainPage/box.jpg) no-repeat 50% 50%;
       background-size: cover;
       max-width: 50%;
