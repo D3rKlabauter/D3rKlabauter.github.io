@@ -931,3 +931,37 @@ textarea:focus {
       background: url(/content/projectPage/Nr11/boxSeite.jpg) no-repeat 50% 50%;
       background-size: contain;
 }
+
+
+/*--------------- DIY Translator --------------- */
+
+.translator .hero-content{
+      text-align: center;
+}
+
+.translator .credits {
+      text-align: center;
+      color: grey;
+      font-weight: lighter;
+}
+
+.translator .image {
+      height: 322px;
+}
+
+
+.translator .image {
+      background: url(content/designscience_2022/hourglass.gif) no-repeat 50% 50%;
+      background-size: contain;
+}
+
+
+@media(max-width: 768px) {
+      .translator .hero-content{
+            margin-top: 60px;
+      }
+      
+      .translator .image {
+            min-height: 200px;
+      }
+}
